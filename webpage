@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esben's Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+        .about-me {
+            margin: 20px;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Esben's Page</h1>
+    <div class="about-me">
+        <h2>About Me</h2>
+        <p>
+            Hi, I'm Esben! I'm passionate about web development and love creating beautiful and functional websites.
+            When I'm not coding, you'll find me exploring new hiking trails or experimenting with new recipes in the kitchen.
+            Feel free to connect with me on social media!
+        </p>
+    </div>
+</body>
+</html>
